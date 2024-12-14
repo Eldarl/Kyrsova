@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">tvorigora</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Новости</string>
+    <string name="menu_master">Мастера</string>
+    <string name="menu_course">Курсы</string>
+    <string name="menu_my_courses">Мои курсы</string>
+    <string name="menu_exit">Выход</string>
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="nav_login">Вход</string>
+    <string name="nav_register">Регистрация</string>
+
+    <string name="course_registration_button">Записаться</string>
+    <string name="course_back_button">Назад</string>
+
+    <string name="course_detail_caption">Курс</string>
+
+    <string name="course_registration_caption">Запись на курс</string>
+    <string name="course_registration_selection_caption">Вы выбрали:</string>
+    <string name="course_registration_child_caption">ФИО ребенка:</string>
+    <string name="course_registration_email_caption">Введите адрес почты, на него придет информация о записи</string>
+    <string name="course_registration_button_caption">Записаться</string>
+    <string name="course_registration_confirm_caption">Ваша запись успешно получена!</string>
+
+    <string name="title_activity_welcom">WelcomActivity</string>
+    <string name="welcome_button_caption">Начнем!</string>
+
+
+</resources>
